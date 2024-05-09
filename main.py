@@ -3,7 +3,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 
-bot = Bot(token="API_TOKEN")
+bot = Bot(token="BOT_TOKEN")
 dp = Dispatcher(bot)
 
 
